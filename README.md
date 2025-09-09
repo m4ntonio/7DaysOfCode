@@ -37,10 +37,3 @@ Clone o repositório e explore cada pasta correspondente ao dia:
 ```bash
 git clone https://github.com/seu-usuario/7DaysOfCode.git
 cd 7DaysOfCode
-
----
-
-##📜 Licença
-
-Este projeto está sob a licença MIT.
-
