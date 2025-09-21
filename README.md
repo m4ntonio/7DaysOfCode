@@ -1,7 +1,7 @@
 # 🧩 7DaysOfCode - Lógica em JavaScript  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/7DaysOfCode?color=blue&style=flat-square)
-![GitHub license](https://img.shields.io/github/license/seu-usuario/7DaysOfCode?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/m4ntonio/7DaysOfCode?color=blue&style=flat-square)
+![GitHub license](https://img.shields.io/github/license/m4ntonio/7DaysOfCode?style=flat-square)
 ![Status](https://img.shields.io/badge/status-em%20andamento-yellow?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/feito%20com-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
